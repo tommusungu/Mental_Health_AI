@@ -19,18 +19,13 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.tommusungu.MentalHealthAI"
+      }
+      
     },
     "web": {
       "favicon": "./assets/favicon.png",
       "bundler": "metro"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "fb01fefd-ff13-4b08-9d9e-66dd34f90b0a"
-      }
-    },
-    "owner": "tommusungu"
+    }
+   
   }
 }
